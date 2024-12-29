@@ -12,10 +12,10 @@ This is a simple web application to track your personal expenses. You can add ex
 ## Screenshots
 
 ### Home
-![Home](Images/home.png)
+![Home](Images/Home_page.png)
 
 ### Result
-![Result](Images/result.png)
+![Result](Images/Result_page.png)
 
 ## Author
 
