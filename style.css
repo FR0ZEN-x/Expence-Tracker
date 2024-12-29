@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+#expenseForm, #expenseList, #charts, #budget {
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    #expenseForm, #expenseList, #charts, #budget {
+        padding: 10px;
+    }
+
+    table {
+        font-size: 14px;
+    }
+}
